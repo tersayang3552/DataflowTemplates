@@ -12,7 +12,8 @@ Adds fields to a Cloud Logging log entry received from Pub/Sub.  Adds `inputSubs
 
 ## filter.js
 
-Filters out incoming JSON events where the `severity` field is equal to `DEBUG`.
+Filters out incoming tersayang6183
+events where the `severity` field is equal to `DEBUG`.
 
 ## route.js
 
